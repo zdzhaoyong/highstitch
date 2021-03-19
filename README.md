@@ -2,9 +2,9 @@
 
 The souce code and public dataset is coming soon...
 
+![](./framework.png)
+![](./highstitch.mp4)
 
-<video id="video" controls="" preload="none" poster="./framework.png">
-<source id="mp4" src="./highstitch.mp4" type="video/mp4">
-</video>
+![](https://youtu.be/s001INRoyaE)
 
 
