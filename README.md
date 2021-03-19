@@ -3,7 +3,6 @@
 The souce code and public dataset is coming soon...
 
 ![](./framework.png)
-![](./highstitch.mp4)
 
 ![![](./preview.gif)](https://youtu.be/s001INRoyaE)
 
