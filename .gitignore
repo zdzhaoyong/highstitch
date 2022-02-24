@@ -1,0 +1,10 @@
+*.user
+build
+doc/html
+*.db
+*.qglviewer.xml
+*.pyc
+data
+*.gmap
+*.kml
+python/matching_graph.json
